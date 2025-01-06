@@ -1,5 +1,13 @@
 # [Hello! I'm Liam 👋](https://liamdwight.com)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=social&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/liam-dwight/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=social&logo=Github)](https://github.com/lame-o)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=social&logo=Spotify&logoColor=1ED760)](https://open.spotify.com/user/liamdwight)
+[![Website](https://img.shields.io/badge/-Website-black?style=social&logo=google-chrome&logoColor=4285F4)](https://liamdwight.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=social&logo=Gmail&logoColor=EA4335)](mailto:liamhdwight@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-black?style=social&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/lame.0)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=social&logo=Instagram&logoColor=E4405F)](https://instagram.com/liamdwight)
+
 Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI** and **full-stack web development**. I bring a background in engineering, programming, and problem-solving, with a strong passion for fusing **data** and **user-centered design**.
 
 ### What I'm Using 👇
@@ -24,20 +32,6 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 ##
 <div align="center">
   <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
-</div>
-
-### Connect With Me 🤝
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-dwight/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/lame-o)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/liamdwight)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://liamdwight.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liamhdwight@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/lame.0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/liamdwight)
-
 </div>
 
 ##
