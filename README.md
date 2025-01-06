@@ -3,6 +3,7 @@
 Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI** and **full-stack web development**. I bring a background in engineering, programming, and problem-solving, with a strong passion for fusing **data** and **user-centered design**.
 
 ## Skills 👨‍💻
+
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -20,6 +21,7 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 </div>
 
 ## Connect With Me 🤝
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-dwight/)
