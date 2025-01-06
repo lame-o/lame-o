@@ -2,7 +2,7 @@
 
 Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI** and **full-stack web development**. I bring a background in engineering, programming, and problem-solving, with a strong passion for fusing **data** and **user-centered design**.
 
-### What I'm Using 👇###
+### What I'm Using 👇
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 
 </div>
 
-## Connect With Me 🤝
+### Connect With Me 🤝
 
 <div align="center">
 
