@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=social&logo=Linkedin&logoColor=0077B5)](https://www.linkedin.com/in/liam-dwight/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=social&logo=Github)](https://github.com/lame-o)
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=social&logo=Spotify&logoColor=1ED760)](https://open.spotify.com/user/liamdwight)
-[![Website](https://img.shields.io/badge/-Personal Website and Portfolio-black?style=social&logo=google-chrome&logoColor=4285F4)](https://liamdwight.com)
+[![Website](https://img.shields.io/badge/-Personal%20Website%20and%20Portfolio-black?style=social&logo=google-chrome&logoColor=4285F4)](https://liamdwight.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=social&logo=Gmail&logoColor=EA4335)](mailto:liamhdwight@gmail.com)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=social&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/lame.0)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=social&logo=Instagram&logoColor=E4405F)](https://instagram.com/liamdwight)
