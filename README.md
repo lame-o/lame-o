@@ -35,11 +35,13 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/liamdwight)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://liamdwight.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liamhdwight@gmail.com)
-![Cat](https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat-square)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/lame.0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/liamdwight)
 
 </div>
 
 ##
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lame-o&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat-square" alt="Cat" />
 </div>
