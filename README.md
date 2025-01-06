@@ -29,5 +29,5 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/llSgMO5.gif" alt="Knight GIF" width="100%" />
+  <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
 </div>
