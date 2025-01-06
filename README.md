@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=social&logo=Github)](https://github.com/lame-o)
 [![Spotify](https://img.shields.io/badge/-Spotify-black?style=social&logo=Spotify&logoColor=1ED760)](https://open.spotify.com/user/liamdwight)
 [![Website](https://img.shields.io/badge/-Personal%20Website%20and%20Portfolio-black?style=social&logo=google-chrome&logoColor=4285F4)](https://liamdwight.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=social&logo=Gmail&logoColor=EA4335)](mailto:liamhdwight@gmail.com)
-[![Discord](https://img.shields.io/badge/-Discord-black?style=social&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/lame.0)
+[![Gmail](https://img.shields.io/badge/-Gmail:%20liamhdwight@gmail.com-black?style=social&logo=Gmail&logoColor=EA4335)](mailto:liamhdwight@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord:%20lame.0-black?style=social&logo=Discord&logoColor=5865F2)](https://discordapp.com/users/lame.0)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=social&logo=Instagram&logoColor=E4405F)](https://instagram.com/liamdwight)
 
 Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI** and **full-stack web development**. I bring a background in engineering, programming, and problem-solving, with a strong passion for fusing **data** and **user-centered design**.
