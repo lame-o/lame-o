@@ -4,7 +4,7 @@
 
 Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI** and **full-stack web development**. I bring a background in engineering, programming, and problem-solving, with a strong passion for fusing **data** and **user-centered design**.
 
-## Tech Stack
+## Skills
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -28,9 +28,6 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 
 </div>
 
-
-<p align="center">
-  <img src="https://i.imgur.com/llSgMO5.gif" alt="Knight GIF" width="400" 
-       style="display:block; margin:0 auto; width:100%; max-width:100%; height:auto;"
-/>      
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/llSgMO5.gif" alt="Knight GIF" width="100%" />
+</div>
