@@ -20,6 +20,12 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 
 </div>
 
+
+##
+<div align="center">
+  <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
+</div>
+
 ### Connect With Me 🤝
 
 <div align="center">
@@ -31,11 +37,6 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liamhdwight@gmail.com)
 ![Cat](https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat-square)
 
-</div>
-
-##
-<div align="center">
-  <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
 </div>
 
 ##
