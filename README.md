@@ -16,17 +16,15 @@ Hey there! I’m a recent UCSD HCI graduate exploring the intersection of **AI**
 
 </div>
 
-## Currently Listening To 🎧
-<div align="center">
-
-[![Spotify](https://novatorem-lame-o.vercel.app/api/spotify)](https://open.spotify.com/user/liamdwight)
-
-</div>
-
+## Connect With Me 🤝
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liam-dwight/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/lame-o)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/liamdwight)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://your-website-url.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Cat](https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat-square)
 
 </div>
 
