@@ -40,5 +40,5 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lame-o&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat-square" alt="Cat" />
-  <img src="https://discord.c99.nl/widget/theme-2/201528698531217408.png" height="20" alt="Discord Status"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.lanyard.rest/v1/users/201528698531217408&query=$.data.discord_status&style=flat-square&logo=discord&logoColor=white&label=Status&color=success" alt="Discord Status" />
 </div>
