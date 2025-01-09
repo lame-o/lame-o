@@ -44,4 +44,6 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 </div>
 
 ##
+<div align="center">
 ![Discord Status](https://img.shields.io/endpoint?url=https://https://dcmd-livestatus.onrender.com/discord-status)
+</div>
