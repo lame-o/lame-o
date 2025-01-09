@@ -46,6 +46,6 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 ##
 <div align="center">
 
-[![Discord Status](https://img.shields.io/endpoint?url=https://dcmd-livestatus.onrender.com/discord-status&style=flat)](https://discord.com/users/201528698531217408)
+[![Discord Status](https://img.shields.io/endpoint?url=https://dcmd-livestatus.onrender.com/discord-status%3Ft%3D{timestamp}&cacheSeconds=5)](https://discord.com/users/201528698531217408)
   
 </div>
