@@ -34,6 +34,11 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 
 
 ##
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 <div align="center">
   <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
 </div>
