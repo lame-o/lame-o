@@ -36,10 +36,3 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 <div align="center">
   <img src="https://i.imgur.com/V80norq.gif" alt="Knight GIF" width="100%" />
 </div>
-
-##
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lame-o&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/🐱-Meow-FF69B4?style=flat" alt="Cat" />
-</div>
-
