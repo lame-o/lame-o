@@ -15,7 +15,7 @@ I enjoy rock climbing, playing soccer, listening to my dads records, and learnin
 
 ### What I'm Using 👇
 
-<div align="center">
+<div>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
